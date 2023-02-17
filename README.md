@@ -13,6 +13,7 @@ Here are some things we went over:
 
 #### Some things that I already knew before starting and added on my own outside of instruction:
 
+All of the above, plus:
 - Alternating table rows
 - Transition effects on hover
 - Adding titles to links in *Hobbies*
